@@ -1,0 +1,215 @@
+   
+   
+   
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .main {
+            background-color: lavender;
+            width: 100%;
+            height: 3em;
+        }
+
+        img {
+            height: 15px;
+            width: 20px;
+            padding-left: 10px;
+            padding-top: 15px;
+        }
+
+        ul {
+            float: left;
+            display: flex;
+            position: absolute;
+            left: 75%;
+            top: 2%;
+        }
+
+        ul li {
+            list-style: none;
+            padding: 3.5%;
+        }
+
+        ul li a {
+            text-decoration: none;
+            color: black;
+            font-family: Arial;
+        }
+
+        ul li a:hover {
+            color: white;
+        }
+
+        .content {
+            height: 8em;
+            background-color: white;
+            width: 100%;
+
+        }
+
+        #img1 {
+            width: 300px;
+            height: 100px;
+
+        }
+
+        .navbar1 {
+            display: flex;
+            position: absolute;
+            left: 30%;
+            top: 15%;
+        }
+
+        .navbar1 ul li a:hover {
+            color: brown;
+        }
+
+        .display {
+            background-color: lightblue;
+            height: 23em;
+            display: flex;
+        }
+
+        .carousel-item img {
+            height: 20em;
+            width: 100%;
+
+        }
+
+        .footer {
+            background-color:black;
+            height: 25em;
+        }
+
+        h5 {
+            padding-left: 5%;
+            padding-top: 4%;
+        }
+
+        h6 {
+            padding-left: 20%;
+            position: absolute;
+            top: 170%;
+            font-style: bold;
+            font-size: large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+        }
+
+        .foot1 ol {
+            position: absolute;
+            left: 18%;
+            top: 175%;
+        }
+
+        .foot1 ol li:hover {
+            color: red;
+
+        }
+
+        .submain {
+            margin-left: 5%;
+            margin-top: 2%;
+        }
+
+        .submain h4 {
+            padding-left: 5%;
+            margin-top: 2%;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .submaino {
+            padding-left: 50px;
+            margin-top: 2%;
+        }
+
+        .submaino h4 {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .submainp {
+            margin-left: 5%;
+            margin-top: 2%;
+        }
+
+        .submainp h4 {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .submainq {
+            padding-left: 25px;
+            margin-top: 2%;
+        }
+
+        .submainq h4 {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        h3 {
+            color: brown;
+            margin-top: 2%;
+            margin-left: 4%;
+            font-size: larger;
+            font-family: bold;
+        }
+
+        .top1 ul {
+            display: inherit;
+            position: absolute;
+            left: 2%;
+            top: 172%;
+            color: white;
+            font-size: small;
+        }
+
+        .top2 h3 {
+            margin-left: 27%;
+            margin-top: -2.5%;
+            font-size: larger;
+            font-family: bold;
+        }
+
+        .top2 ul {
+            display: inherit;
+            position: absolute;
+            left: 25%;
+            top: 172%;
+            color: white;
+            font-size: small;
+        }
+        .top3 h3 {
+            margin-left: 55%;
+            margin-top: -2.5%;
+            font-size: larger;
+            font-family: bold;
+        }
+        .top3 ul {
+            display: inherit;
+            position: absolute;
+            left: 52%;
+            top: 172%;
+            color: white;
+            font-size: small;
+        }
+        .top4 h3 {
+            margin-left: 75%;
+            margin-top: -2.5%;
+            font-size: larger;
+            font-family: bold;
+        }
+        .top4 ul {
+            display: inherit;
+            position: absolute;
+            left: 74%;
+            top: 172%;
+            color: white;
+            font-size: small;
+        }
+        P{
+            font-size: small;
+            color: white;
+            margin-top: 22%;
+            margin-left: 6%;
+        }
+    
